@@ -25,7 +25,7 @@ SECRET_KEY = '-n!_-rgn8hpdm)4ndw2+26(3brg$s6ni0*w-^)-ewct#a$!bt+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<sandra>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'jasandra.pythonanywhere.com']
 
 
 # Application definition
